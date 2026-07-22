@@ -1,8 +1,8 @@
 ### 👋 Hi there
-* My name is Hong 
-*   🎓 **Background:** Fresh Graduate majoring in Data Science and Business Analytics.
-*   🧠 **Interests:** AI (NLP, Computer Vision), Web3/Blockchain, Business Analysis.
-*   📊 **Also:**  Data Analytics, UI/UX Design, Sequential Verification Workflows.
+
+*   🎓 **My background is:** Fresh Graduate majoring in Data Science and Business Analytics.
+*   🧠 **My interests include:** AI (NLP, Computer Vision), Web3/Blockchain, Business Analysis.
+*   📊 **I also specialize in:**  Data Analytics, UI/UX Design, Sequential Verification Workflows.
 
 ---
 
